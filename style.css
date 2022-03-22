@@ -1,0 +1,47 @@
+.nav {
+    background-color: #282828;
+    padding: 0px 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.nav-title {
+    color: ghostwhite;
+    font-family: sans-serif;
+    font-weight: 300;
+    margin: 0px;
+}
+
+.nav-links {
+    display: flex;
+    align-items: center;
+}
+
+ul {
+    color: #282828;
+}
+
+a {
+    color: ghostwhite;
+    margin: 0px 20px 0px 0px;
+    font-weight: 200;
+    font-family: sans-serif;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+.active {
+    font-weight: bold;
+}
+
+.btn {
+    color: ghostwhite;
+    background-color: deepskyblue;
+    border: 2px solid black;
+    font-size: 15px;
+    box-shadow: 3px 3px black;
+}
+
+
